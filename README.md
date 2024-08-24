@@ -4,7 +4,7 @@ Ce projet illustre un pipeline de data engineering sur AWS utilisant Lambda, S3,
 
 ## Architecture
 
-![Architecture]([./path/to/architecture.jpg](https://github.com/momodou44/aws-data-mini-project/blob/main/architecture.jpg))
+![Architecture]([(https://github.com/momodou44/aws-data-mini-project/blob/main/architecture.jpg))
 
 ## Description du Projet
 
